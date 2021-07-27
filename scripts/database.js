@@ -26,13 +26,13 @@ const database = {
         id: 1,
         address: "333 Scissorhands lane",
         size: .25,
-        serviceId: 1
+        serviceId: 4
     },
         {
         id: 2,
         address: "47 Mars Ave",
         size: 1.25,
-        serviceId: 1
+        serviceId: 2
     },
         {
         id: 3,
@@ -44,7 +44,7 @@ const database = {
         id: 4,
         address: "10 Cloverfield Lane",
         size: 1,
-        serviceId: 1
+        serviceId: 3
     }
     ],
     services: [
