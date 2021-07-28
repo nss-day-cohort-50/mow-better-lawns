@@ -1,9 +1,9 @@
-import { Kids } from "./kids.js";
+import { KidJobsCompleted } from "./kids.js";
 
 const mainContainer = document.querySelector("#container")
 
 const render = () => {
-    mainContainer.innerHTML = Kids()
+    mainContainer.innerHTML = KidJobsCompleted()
 }
 
 render()

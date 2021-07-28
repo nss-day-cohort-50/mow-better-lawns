@@ -45,6 +45,12 @@ const database = {
         address: "10 Cloverfield Lane",
         size: 1,
         serviceId: 3
+    },
+        {
+        id: 5,
+        address: "86 Scott Ave",
+        size: 1,
+        serviceId: 3
     }
     ],
     services: [
